@@ -14,8 +14,8 @@
   <url>http://www.example.com</url>
 
   <properties>
-    <sonar.host.url>http://localhost:9000</sonar.host.url>         #Edit hereEnter your Ec2 Ip:9000
-    <sonar.login>squ_df78e578728b61e370dc5af658f2744dcc715706</sonar.login> # Edit enter here your Token
+    <sonar.host.url>http://localhost:9000</sonar.host.url>         <!-- #Edit hereEnter your Ec2 Ip:9000 -->
+    <sonar.login>squ_df78e578728b61e370dc5af658f2744dcc715706</sonar.login> <!-- Edit enter here your Token -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
