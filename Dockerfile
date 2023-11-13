@@ -4,6 +4,6 @@ MAINTAINER manisankar.divi@gmail.com
 
 ADD /target/project.war/  ${CATALINA_HOME}/webapps
 
-EXPOSE 9090 #change according to your jenkins and tomcat port num
+EXPOSE 9090
 
 CMD ["catalina.sh", "run"]
