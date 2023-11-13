@@ -1,4 +1,4 @@
-FROM tomcat:9.0.82
+FROM tomcat:9.0.82-jdk21
 
 MAINTAINER manisankar.divi@gmail.com
 
