@@ -4,6 +4,6 @@ MAINTAINER manisankar.divi@gmail.com
 
 ADD /target/project.war/  ${CATALINA_HOME}/webapps
 
-EXPOSE 9090
+EXPOSE 8000
 
 CMD ["catalina.sh", "run"]
